@@ -7,6 +7,6 @@ public class Main {
         String lastname;
         lastname = scanner.nextLine();
 
-        System.out.println("Your family: " + lastname);
+        System.out.println("Your family: " + lastname); // Добавил комментарий 2
     }
 }
